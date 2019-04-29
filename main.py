@@ -1,5 +1,4 @@
 import random
-from lymphocyte import Lymphocyte
 
 class Lymphocyte(object):
 
